@@ -12,6 +12,10 @@ This GUI-based application implemented in Java and the `Java/FX` and `Java/Swing
 * Save the file (by serializing it) or load an existing file
 * Connect to another user and sync canvases with them (each person gets all the other drawings the person has made added to their canvas)
 
+### Screenshot of GUI:
+
+![picture alt](https://github.com/MalakSadek/JavaPaint/blob/master/Screenshot.png "Screenshot of GUI")
+
 ### Installation
 
 Clone the project: 
