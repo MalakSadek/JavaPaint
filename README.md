@@ -1,5 +1,5 @@
 # Java Paint
-A Java program that has the same features as Microsoft Paint 🎨 💻 (2019)
+A Java program that has the same features as Microsoft Paint 🎨 💻 (2019).
 
 This GUI-based application implemented in Java and the `Java/FX` and `Java/Swing` libraries. It displays a canvas and a set of tools to allow the user to draw among a set of other features such as saving/loading canvases or syncing canvases with another user.
 
